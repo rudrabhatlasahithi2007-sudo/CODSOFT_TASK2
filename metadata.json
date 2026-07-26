@@ -1,0 +1,6 @@
+{
+  "name": "Project Management Tool",
+  "description": "Full-stack project management application with project tracking, task assignments, deadlines, Kanban board, team member roles, file attachments, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
